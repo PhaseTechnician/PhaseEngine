@@ -1,4 +1,4 @@
 # PhaseEngine
-作为编程爱好者，我尝试构建一组代码来帮助我构建一些我更喜欢的程序。是的，也许它不会比任何其他操作系统项目做得更好，但我想我会在制作它时度过愉快的时光。
+As a programming enthusiasts, I try to build a group of codes to help me build some programs I like more fast. Yeah, maybe it can`t do better than any other OS projects, but I think I will have a good time when I making it.
 
 state lable : in building
